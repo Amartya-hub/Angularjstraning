@@ -1,0 +1,73 @@
+compress file -> 
+
+exe dll
+exe = nodejs
+windows to web based application
+
+nodejs = runtime
+
+vat jsengine  = js 
+js engine bat, html engine 
+
+API
+
+server based
+distributed server (based) 
+
+js need to html file and script
+
+model view everywhere 
+model view presentetor
+
+learning the architecture 
+MVVM MODEL VIEW VIEW MODEL
+
+1.6.4
+1.4
+1.8 (ANGULAR JS)
+
+mvstar 
+
+jquery : front end , client side
+-------------------------------------------------
+TITLE : ONLINE SHOPPING PORTAL
+MODULES:
+PRODUCT CATLOG
+SHOPPING CART
+ORDER PROCESSING
+MEMBERSHIP AND ROLES MANAGMENT
+SHIPMENT 
+PAYMENT PROCESSING
+CRM
+MODULES CONTAINS CONTROLLER,SERVICES, AND VIEWS
+ALSO CONTAINS UI ROUTES
+controller(js)
+models(json)
+view(ui & cshtml)
+
+
+routes: guards, parameters routes , URL , ROUTE PARAMETER
+route gaurd : AFTER AUTHORIZATION 
+
+dom manipulation
+architec
+monolethic 
+distributed 
+angulr bin librabry , jquery
+
+react = library (component)
+
+dono ka data dikhana hai and check karna hai and chekc karna hai and set karna hai welcome email address ke click p
+
+converting into view , controllers, ajax, jquery
+
+
+
+define module
+register controller 
+$ select in selector jquery
+$ angular in built service
+
+
+
+
